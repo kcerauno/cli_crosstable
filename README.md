@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 入力(1列目: 列名, 2列目: 行名):
 
-```csv
+```
 SrvAlice,34112876
 SrvAlice,98783911
 SrvBob,34112876
@@ -50,7 +50,7 @@ python crosstable.py sample_data/binary.csv
 
 入力(1列目: 列名, 2列目: 行名, 3列目: 値):
 
-```csv
+```
 SrvAlice,34112876,3
 SrvAlice,98783911,1
 SrvBob,34112876,3
