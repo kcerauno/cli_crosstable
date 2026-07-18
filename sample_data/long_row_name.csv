@@ -1,0 +1,7 @@
+# 行名が長いケースの確認用サンプル
+SrvAlice,1
+SrvAlice,a-very-long-row-name-1234567890
+SrvBob,1
+SrvBob,a-very-long-row-name-1234567890
+SrvCharlie,1
+SrvCharlie,a-very-long-row-name-1234567890

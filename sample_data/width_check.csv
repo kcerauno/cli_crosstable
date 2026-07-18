@@ -1,0 +1,17 @@
+# 幅の自動拡大チェック用サンプル(列名多め・長い列名/行名を含む)
+SrvAlice,34112876
+SrvAlice,98783911
+SrvBob,34112876
+SrvBob,98783914
+SrvCharlie,98783911
+SrvCharlie,98963911
+SrvDave,34112876
+SrvDave,99993911
+SrvEve,98783914
+SrvEve,98963911
+SrvFrank,99993911
+SrvFrank,34112876
+SrvGrace,98783911
+SrvGrace,a-very-long-row-name-1234567890
+SrvVeryLongColumnNameHannah,34112876
+SrvVeryLongColumnNameHannah,98963911
